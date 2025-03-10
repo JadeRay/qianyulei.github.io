@@ -25,8 +25,8 @@ description: >- # Qian Yulei (Raymond Qian)
 # don't use other urls, or it will be added to the current website
 baseurl: ""
 url: "https://github.com/JadeRay/qianyulei.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: raymond
+github_username:  JadeRay
 
 # Build settings
 theme: minima
