@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 # 钱玉磊
-VX/Tel：18500265313，1990年，Email：qianyulei@126.com
+1990年，Email：qianyulei@126.com
 
 ---
 
