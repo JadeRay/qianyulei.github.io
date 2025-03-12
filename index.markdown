@@ -7,4 +7,4 @@ layout: home
 
 # 欢迎来到钱玉磊的个人网站
 
-[查看我的简历]({{ site.baseurl }}/resume.md)
+[查看我的简历]({{ site.baseurl }}/resume)
