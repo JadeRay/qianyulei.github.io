@@ -26,7 +26,7 @@ description: >- # Qian Yulei (Raymond Qian)
 # baseurl: "https://jaderay.github.io/qianyulei.github.io" # this will make the homepage css invalid
 baseurl: "/qianyulei.github.io"
 url: "https://github.com/JadeRay/qianyulei.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: raymond
+twitter_username: RaymondT
 github_username:  JadeRay
 
 # Build settings
