@@ -10,7 +10,6 @@ permalink: /resume/
 ---
 
 ## 个人简介
-8年搜推架构、深度学习架构、分布式计算、GPU计算方向，2年大模型方向。
 
 大模型方向：主导美团基座大模型推理加速，通过投机推理（Medusa/Eagle）、PrefixCache、计算通信overlap（EPS-MoE）、量化压缩、分布式EP等技术提高模型的推理性能，降低成本；主导美团第一个支持千亿规模模型的强化学习框架落地；负责多模态训练和推理。
 
@@ -26,7 +25,7 @@ permalink: /resume/
 ---
 
 ## 工作背景
-### 一、2020年5月—至今，美团，L9，团队Lead
+### 一、2020年5月—至今，美团，Staff Engineer，团队Lead
 **主要方向**：大模型Infra、搜推机器学习、分布式架构、搜推架构。
 
 **工作总结**：
@@ -34,6 +33,20 @@ permalink: /resume/
 2. **搜推机器学习方向**：美团首页推荐、搜索机器学习引擎全面GPU化，在离线一体的层次化参数服务器，业内首次完成特征抽取的GPU框架，训练效率提升4倍，推理算力空间提升一个数量级。端到端机器学习平台建设，月均迭代+35倍。
 3. **搜推架构方向**：全图化在线执行引擎设计，解决搜推场景的算子化调度问题。
 4. **管理方面**：从0到1搭建美团机器学习引擎团队，培养多个核心技术人员。承担部门TC工作，参与部门整体技术水平提升和系统架构的设计。
+
+#### 2023年2月-至今，美团，大模型加速方向
+1. ** 文本大模型推理 **： 2023-至今，负责内部自研大模型推理框架的总体设计；MoE推理优化；投机推理的算法和工程；算法-工程协同设计模型结构。
+2. ** 多模态大模型推理 **：2023-至今，负责语音（TTS+ASR）、融合多模（图文理解、图文生成、语音融合多模）等多模态大模型的推理架构。
+3. ** 多模态大模型RL **：2025-至今，负责多模态RL的rollout优化过程。
+4. ** 多模态大模型训练 **：2023-2024，融合多模训练。
+5. ** 模型量化压缩 **：2025-至今，模型压缩方向，模型稀疏化，高效Attention结构设计。
+6. ** 国产芯片推理 **：2025-至今，负责昇腾卡的推理落地，在极致时延上，对标H20。
+7. ** 端侧推理引擎 **：2025-至今，负责公司级的端侧推理引擎和IoT场景的支持。
+
+#### 2020年5月-2024年1月，美团，搜索推荐方向
+1. ** 搜推机器学习引擎 **：美团首页推荐、大搜机器学习引擎全面GPU化（公司内首次），在离线一体的层次化GPU参数服务器。
+2. ** 搜推机器学习平台 **：公司级搜推机器学习平台。
+3. ** 搜推在线架构 **：负责搜推在线检索架构的总体设计和推广落地。
 
 ### 二、2015年7月—2020年5月，百度凤巢-CTR团队，资深研发工程师（T7）
 **工作总结**：
@@ -46,6 +59,10 @@ permalink: /resume/
 ---
 
 ## 论文
-1. **Qian, Y., Li, F., Ji, X., Zhao, X., Tan, J., Zhang, K., & Cai, X. (2024).** EPS-MoE: Expert Pipeline Scheduler for Cost-Efficient MoE Inference. ArXiv, abs/2410.12247.
-2. **Zhao, W., Zhang, J., Xie, D., Qian, Y., Jia, R., & Li, P. (2019, November).** AIBox: CTR prediction model training on a single node. In Proceedings of the 28th ACM International Conference on Information and Knowledge Management (pp. 319-328).
-3. **Zhao, Weijie, Deping Xie, Ronglai Jia, Yulei Qian, Ruiquan Ding, Mingming Sun, and Ping Li. (2020).** Distributed hierarchical gpu parameter server for massive scale deep learning ads systems. Proceedings of Machine Learning and Systems 2 (2020): 412-428.
+1. **Team, Meituan LongCat et al.** “LongCat-Flash-Thinking Technical Report.” (2025).
+2. **Team, Meituan LongCat et al.** “LongCat-Flash Technical Report.” ArXiv abs/2509.01322 (2025): n. pag.
+3. **Li, Q., Zhang, B., Kang, H., Xu, T., Qian, Y., Xie, Y., & Ma, L. (2025).** FlashCommunication V2: Bit Splitting and Spike Reserving for Any Bit Communication. ArXiv, abs/2508.03760.
+4. **Su, Z., Li, Q., Zhang, H., Qian, Y., Xie, Y., & Yuan, K. (2025).** Unveiling Super Experts in Mixture-of-Experts Large Language Models. ArXiv, abs/2507.23279.
+5. **Qian, Y., Li, F., Ji, X., Zhao, X., Tan, J., Zhang, K., & Cai, X. (2024).** EPS-MoE: Expert Pipeline Scheduler for Cost-Efficient MoE Inference. ArXiv, abs/2410.12247.
+6. **Zhao, W., Zhang, J., Xie, D., Qian, Y., Jia, R., & Li, P. (2019, November).** AIBox: CTR prediction model training on a single node. In Proceedings of the 28th ACM International Conference on Information and Knowledge Management (pp. 319-328).
+7. **Zhao, Weijie, Deping Xie, Ronglai Jia, Yulei Qian, Ruiquan Ding, Mingming Sun, and Ping Li. (2020).** Distributed hierarchical gpu parameter server for massive scale deep learning ads systems. Proceedings of Machine Learning and Systems 2 (2020): 412-428.
