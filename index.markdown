@@ -7,6 +7,5 @@ layout: home
 
 # 欢迎来到钱玉磊的个人网站
 
-[查看我的简历](https://jaderay.github.io/qianyulei.github.io/resume.md)
 
-[About Me](https://jaderay.github.io/qianyulei.github.io/resume_en.md)
+[About Me](https://jaderay.github.io/qianyulei.github.io/resume_en)
