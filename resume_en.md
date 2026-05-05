@@ -5,13 +5,13 @@ permalink: /resume/
 ---
 
 # Yulei Qian
-**Staff/Principal Engineer** | Born 1990 | Email: qianyulei@126.com
+**Principal Engineer** | Born 1990 | Email: jade.ray.tsien@gmail.com
 
 ---
 
 ##  Professional Summary
 
-**Staff/Principal Engineer** specializing in **Ultra-Scale AI Infrastructure** and **Hardware-Software Co-design**. Recognized for leading **Pioneering 0-to-1** initiatives at **Trillion-Parameter** scale, driving both fundamental research (8+ papers) and massive production efficiency across Meituan and Baidu.
+**Principal Engineer** specializing in **Ultra-Scale AI Infrastructure** and **Hardware-Software Co-design**. Recognized for leading **Pioneering 0-to-1** initiatives at **Trillion-Parameter** scale, driving both fundamental research (8+ papers) and massive production efficiency across Meituan and Baidu.
 
 **Technical Breakthrough & Cross-Organizational Leadership:**
 - **Domestic Chip Parity:** Led a **cross-company technical taskforce (Meituan & Huawei)** to achieve industry-leading LLM inference performance on domestic Ascend NPUs, matching H20 performance.
