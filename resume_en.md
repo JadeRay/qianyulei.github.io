@@ -38,7 +38,7 @@ permalink: /resume/
 
 ##  Work Experience
 
-### I. Meituan, Staff Engineer / Team Lead (May 2020 – Present)
+### I. Meituan, Principal Engineer / Team Lead (May 2020 – Present)
 **Focus Areas**: LLM Infra, Hardware-Software Co-design, Search & Recommendation ML Platforms.
 
 #### **LLM Infrastructure & System Co-design (Feb 2023 – Present)**
